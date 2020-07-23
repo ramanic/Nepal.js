@@ -1,13 +1,49 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Nepal.Js Example</title>
-    
+    <title>Nepal.Js Example Location Picker</title>
 </head>
-<body>
 
-<script type="text/javascript" src="../js/Nepal-min.js"></script>
+<body>
+    <div id="form" style="width:800px; margin:0 auto;">
+        <p>
+            <h1>Location Picker </h1>
+            <label>Select Region :</label><br>
+            <select id="regions"  onchange="showZone()" >
+                <option disabled selected value> -- select an option -- </option>
+            </select>
+           
+            <label>Select Zone :</label><br>
+            <select id="zones"  onchange="showDistrict()" >
+                <option disabled selected value> -- select an option -- </option>
+            </select>
+
+            <label>Select District :</label><br>
+            <select id="districts"  onchange="showCity()" >
+                <option disabled selected value> -- select an option -- </option>
+            </select>
+
+            <label>Select City :</label><br>
+            <select id="districts"  onchange="showResult()" >
+                <option disabled selected value> -- select an option -- </option>
+            </select>
+
+        </p>
+    </div>
+
+
+    <script type="text/javascript" src="../js/Nepal.js"></script>
+    <script>
+        var selectBox = document.getElementById('regions');
+        options= Object.keys(Nepal.Regions)
+        for (var i = 0, l = options.length; i < l; i++) {
+            var option = options[i];
+            selectBox.options.add(new Option(option, option,false));
+        }
+    </script>
 </body>
+
 </html>
