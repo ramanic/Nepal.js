@@ -1,0 +1,17 @@
+{
+  "name": "nepal-js",
+  "version": "1.0.0",
+  "description": "A JavaScript Object for all the location in Nepal. It contains all the regions,zones,provinces,districts,city and postal/zip codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nepal",
+    "postal",
+    "locations"
+  ],
+  "author": "Raman Lamichhane",
+  "license": "ISC",
+  "homepage": "https://github.com/ramanic/Nepal.js"
+}
