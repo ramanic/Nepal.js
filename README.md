@@ -42,7 +42,7 @@ Nepal.Provinces //Return list of Provinces with headquater
 ```
 ![Examples](/screenshots/examples.png?raw=true "Examples")
 
-Some of the built in functions 
+**Some of the built in functions**
 ```
 Nepal.getCitiesByDistrict("Chitwan") //Returns all the vdc and municiplaity in Kaski District
 
