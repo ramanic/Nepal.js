@@ -1,0 +1,28 @@
+{
+    "Eastern":{
+        "name":"Eastern Development Region",
+        "headquater":"Dhankuta"
+
+    },
+    "Central":{
+        "name":"Central Development Region",
+        "headquater":"Dhankuta"
+
+    },
+    "Western":{
+        "name":"Western Development Region",
+        "headquater":"Dhankuta"
+
+    },
+    "Mid-Western":{
+        "name":"Mid-Western Eastern Development Region",
+        "headquater":"Dhankuta"
+
+    },
+    "Far-Western":{
+        "name":"Far-Western Development Region",
+        "headquater":"Dhankuta"
+
+    }
+    
+}

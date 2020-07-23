@@ -1,0 +1,77 @@
+{
+    "Mechi":{
+        "name":"Mechi",
+        "region":"Eastern",
+        "area":"8196"    
+    },
+    "Koshi":{
+        "name":"Koshi",
+        "region":"Eastern",
+        "area":"9669"    
+    },
+    "Sagarmatha":{
+        "name":"Sagarmatha",
+        "region":"Eastern",
+        "area":"10591"    
+    },
+    "Janakpur":{
+        "name":"Janakpur",
+        "region":"Central",
+        "area":"9669"    
+    },
+    "Bagmati":{
+        "name":"Bagmati",
+        "region":"Central",
+        "area":"9428"    
+    },
+    "Narayani":{
+        "name":"Narayani",
+        "region":"Central",
+        "area":"8313"    
+    },
+    "Gandaki":{
+        "name":"Gandaki",
+        "region":"Western",
+        "area":"12275"    
+    },
+    
+    "Lumbini":{
+        "name":"Lumbini",
+        "region":"Western",
+        "area":"8975"    
+    },
+    "Dhawalagiri":{
+        "name":"Dhawalagiri",
+        "region":"Western",
+        "area":"8148"    
+    },
+    "Rapti":{
+        "name":"Rapti",
+        "region":"Mid-Western",
+        "area":"10482"    
+    },
+    "Karnali":{
+        "name":"Karnali",
+        "region":"Mid-Western",
+        "area":"21351"    
+    },
+    "Bheri":{
+        "name":"Bheri",
+        "region":"Mid-Western",
+        "area":"10545"    
+    },
+    "Seti":{
+        "name":"Seti",
+        "region":"Far-Western",
+        "area":"12550"    
+    },
+    "Mahakali":{
+        "name":"Mahakali",
+        "region":"Far-Western",
+        "area":"6989"    
+    }
+
+
+
+
+}
