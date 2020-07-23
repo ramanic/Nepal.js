@@ -35004,7 +35004,6 @@ const Nepal = {
 
 
     },
-
     getCitiesByDistrict: function (district) {
         let filtered = Object.assign({}, this.Cities)
         Object.keys(filtered)
