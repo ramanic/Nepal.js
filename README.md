@@ -8,11 +8,11 @@
 ## Instalation
 You can install the package using npm or directly include the js file in your html file.
 **Using NPM**
-Install the package using following command :
-$ npm install nepal-js
-
+Install the package using following command 
+```
+npm install nepal-js
+```
 Impot Package:
-
 ```
 const Nepal = require('nepal-js');
 ```
