@@ -7,6 +7,7 @@
 
 ## Installation
 You can install the package using npm or directly include the js file in your html file.<br>
+
 **Using NPM**<br>
 Install the package using following command 
 ```
@@ -39,8 +40,30 @@ Nepal.Zones //Return list of zones in Nepal with headqauters
 Nepal.Regions //Return list of Development Regions
 Nepal.Provinces //Return list of Provinces with headquater
 ```
-![Examples](/screenshots/examples.png?raw=true "City")
+![Examples](/screenshots/examples.png?raw=true "Examples")
 
+Some of the built in functions 
+```
+Nepal.getCitiesByDistrict("Chitwan") //Returns all the vdc and municiplaity in Kaski District
+
+Nepal.getDistrictsByZone("Mechi") //Return all the Districts in Mechi Zone
+
+Nepal.getDistrictsByRegion('Western') //Returns all the Districts if western Region
+
+Nepal.getDistrictsByProvince(1) //Returns all the Districts of Province 1
+
+Nepal.getZonesByRegion('Central') //Returns all the zones in Central Region
+
+Nepal.getPostalCode('Kaski') //Return Postal Codes of Kaski District.
+
+```
+![Examples](/screenshots/examples.png?raw=true "Examples")
+
+## Contributing
+Contributions are open.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
 
 
 
