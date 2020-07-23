@@ -6,8 +6,8 @@
 ![Nepal.js](/screenshots/nepal.png?raw=true "Nepal.js")
 
 ## Instalation
-You can install the package using npm or directly include the js file in your html file.
-**Using NPM**
+You can install the package using npm or directly include the js file in your html file.<br>
+**Using NPM**<br>
 Install the package using following command 
 ```
 npm install nepal-js
