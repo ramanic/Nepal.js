@@ -1,6 +1,6 @@
 {
   "name": "nepal-js",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A JavaScript Object for all the location in Nepal. It contains all the regions,zones,provinces,districts,city and postal/zip codes",
   "main": "index.js",
   "scripts": {
