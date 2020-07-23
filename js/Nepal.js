@@ -1,6 +1,6 @@
-const Nepal ={
+const Nepal = {
 
-    Cities:{
+    Cities: {
         "Ambegudin": {
             "name": "Ambegudin",
             "code": "1001",
@@ -33140,7 +33140,7 @@ const Nepal ={
             "province": "7"
         }
     },
-    Districts:{
+    Districts: {
         "Taplejung": {
             "name": "Taplejung",
             "headquater": "Taplejung",
@@ -34818,204 +34818,204 @@ const Nepal ={
             "region": "Far-Western"
         }
     },
-    Provinces:{
-        "1":{
-            "name":"Province No 1",
-            "capital":"Biratnagar"
-          
+    Provinces: {
+        "1": {
+            "name": "Province No 1",
+            "capital": "Biratnagar"
+
         },
-        "2":{
-            "name":"Province No 2",
-            "capital":"Janakpur",
-            "code":"2"
+        "2": {
+            "name": "Province No 2",
+            "capital": "Janakpur",
+            "code": "2"
         },
-        "3":{
-            "name":"Bagmati Pradesh",
-            "capital":"Hetauda"
-          
+        "3": {
+            "name": "Bagmati Pradesh",
+            "capital": "Hetauda"
+
         },
-        "4":{
-            "name":"Gandaki Pradesh",
-            "capital":"Pokhara"
-            
+        "4": {
+            "name": "Gandaki Pradesh",
+            "capital": "Pokhara"
+
         },
-        "5":{
-            "name":"Province No 5",
-            "capital":"Butwal"
-            
+        "5": {
+            "name": "Province No 5",
+            "capital": "Butwal"
+
         },
-        "6":{
-            "name":"Karnali Pradesh",
-            "capital":"Birendranagar"
-           
+        "6": {
+            "name": "Karnali Pradesh",
+            "capital": "Birendranagar"
+
         },
-        "7":{
-            "name":"Sudurpashim Pradesh",
-            "capital":"Dhangadi"
-            
+        "7": {
+            "name": "Sudurpashim Pradesh",
+            "capital": "Dhangadi"
+
         }
-    
-    
+
+
     },
-    Regions:{
-        "Eastern":{
-            "name":"Eastern Development Region",
-            "headquater":"Dhankuta"
-    
+    Regions: {
+        "Eastern": {
+            "name": "Eastern Development Region",
+            "headquater": "Dhankuta"
+
         },
-        "Central":{
-            "name":"Central Development Region",
-            "headquater":"Dhankuta"
-    
+        "Central": {
+            "name": "Central Development Region",
+            "headquater": "Dhankuta"
+
         },
-        "Western":{
-            "name":"Western Development Region",
-            "headquater":"Dhankuta"
-    
+        "Western": {
+            "name": "Western Development Region",
+            "headquater": "Dhankuta"
+
         },
-        "Mid-Western":{
-            "name":"Mid-Western Eastern Development Region",
-            "headquater":"Dhankuta"
-    
+        "Mid-Western": {
+            "name": "Mid-Western Eastern Development Region",
+            "headquater": "Dhankuta"
+
         },
-        "Far-Western":{
-            "name":"Far-Western Development Region",
-            "headquater":"Dhankuta"
-    
+        "Far-Western": {
+            "name": "Far-Western Development Region",
+            "headquater": "Dhankuta"
+
         }
-        
+
     },
-    Zones:{
-        "Mechi":{
-            "name":"Mechi",
-            "region":"Eastern",
-            "area":"8196"    
+    Zones: {
+        "Mechi": {
+            "name": "Mechi",
+            "region": "Eastern",
+            "area": "8196"
         },
-        "Koshi":{
-            "name":"Koshi",
-            "region":"Eastern",
-            "area":"9669"    
+        "Koshi": {
+            "name": "Koshi",
+            "region": "Eastern",
+            "area": "9669"
         },
-        "Sagarmatha":{
-            "name":"Sagarmatha",
-            "region":"Eastern",
-            "area":"10591"    
+        "Sagarmatha": {
+            "name": "Sagarmatha",
+            "region": "Eastern",
+            "area": "10591"
         },
-        "Janakpur":{
-            "name":"Janakpur",
-            "region":"Central",
-            "area":"9669"    
+        "Janakpur": {
+            "name": "Janakpur",
+            "region": "Central",
+            "area": "9669"
         },
-        "Bagmati":{
-            "name":"Bagmati",
-            "region":"Central",
-            "area":"9428"    
+        "Bagmati": {
+            "name": "Bagmati",
+            "region": "Central",
+            "area": "9428"
         },
-        "Narayani":{
-            "name":"Narayani",
-            "region":"Central",
-            "area":"8313"    
+        "Narayani": {
+            "name": "Narayani",
+            "region": "Central",
+            "area": "8313"
         },
-        "Gandaki":{
-            "name":"Gandaki",
-            "region":"Western",
-            "area":"12275"    
+        "Gandaki": {
+            "name": "Gandaki",
+            "region": "Western",
+            "area": "12275"
         },
-        
-        "Lumbini":{
-            "name":"Lumbini",
-            "region":"Western",
-            "area":"8975"    
+
+        "Lumbini": {
+            "name": "Lumbini",
+            "region": "Western",
+            "area": "8975"
         },
-        "Dhawalagiri":{
-            "name":"Dhawalagiri",
-            "region":"Western",
-            "area":"8148"    
+        "Dhawalagiri": {
+            "name": "Dhawalagiri",
+            "region": "Western",
+            "area": "8148"
         },
-        "Rapti":{
-            "name":"Rapti",
-            "region":"Mid-Western",
-            "area":"10482"    
+        "Rapti": {
+            "name": "Rapti",
+            "region": "Mid-Western",
+            "area": "10482"
         },
-        "Karnali":{
-            "name":"Karnali",
-            "region":"Mid-Western",
-            "area":"21351"    
+        "Karnali": {
+            "name": "Karnali",
+            "region": "Mid-Western",
+            "area": "21351"
         },
-        "Bheri":{
-            "name":"Bheri",
-            "region":"Mid-Western",
-            "area":"10545"    
+        "Bheri": {
+            "name": "Bheri",
+            "region": "Mid-Western",
+            "area": "10545"
         },
-        "Seti":{
-            "name":"Seti",
-            "region":"Far-Western",
-            "area":"12550"    
+        "Seti": {
+            "name": "Seti",
+            "region": "Far-Western",
+            "area": "12550"
         },
-        "Mahakali":{
-            "name":"Mahakali",
-            "region":"Far-Western",
-            "area":"6989"    
+        "Mahakali": {
+            "name": "Mahakali",
+            "region": "Far-Western",
+            "area": "6989"
         }
-    
-    
-    
-    
+
+
+
+
     },
 
-    getCitiesByDistrict:function(district){
-        let filtered= Object.assign({},this.Cities)
+    getCitiesByDistrict: function (district) {
+        let filtered = Object.assign({}, this.Cities)
         Object.keys(filtered)
-            .filter(key => filtered[key].district!=district)
+            .filter(key => filtered[key].district != district)
             .forEach(key => delete filtered[key]);
         return filtered
 
     },
-    getDistrictsByZone:function(zone){
-        let filtered= Object.assign({},this.Districts)
+    getDistrictsByZone: function (zone) {
+        let filtered = Object.assign({}, this.Districts)
         Object.keys(filtered)
-            .filter(key => filtered[key].zone!=zone)
-            .forEach(key => delete filtered[key]);
-        return filtered
-
-    },
-  
-    getDistrictsByProvince:function(province_number){
-        let filtered= Object.assign({},this.Districts)
-        province_number=province_number.toString()
-        Object.keys(filtered)
-            .filter(key => filtered[key].province!=province_number)
-            .forEach(key => delete filtered[key]);
-        return filtered
-
-    },
-    getDistrictsByRegion:function(region){
-        let filtered= Object.assign({},this.Districts)
-
-        Object.keys(filtered)
-            .filter(key => filtered[key].region!=region)
-            .forEach(key => delete filtered[key]);
-        return filtered
-
-    },
-    getZonesByRegion:function(region){
-        let filtered= Object.assign({},this.Zones)
-
-        Object.keys(filtered)
-            .filter(key => filtered[key].region!=region)
+            .filter(key => filtered[key].zone != zone)
             .forEach(key => delete filtered[key]);
         return filtered
 
     },
 
-    getPostalCode:function(district){
+    getDistrictsByProvince: function (province_number) {
+        let filtered = Object.assign({}, this.Districts)
+        province_number = province_number.toString()
+        Object.keys(filtered)
+            .filter(key => filtered[key].province != province_number)
+            .forEach(key => delete filtered[key]);
+        return filtered
+
+    },
+    getDistrictsByRegion: function (region) {
+        let filtered = Object.assign({}, this.Districts)
+
+        Object.keys(filtered)
+            .filter(key => filtered[key].region != region)
+            .forEach(key => delete filtered[key]);
+        return filtered
+
+    },
+    getZonesByRegion: function (region) {
+        let filtered = Object.assign({}, this.Zones)
+
+        Object.keys(filtered)
+            .filter(key => filtered[key].region != region)
+            .forEach(key => delete filtered[key]);
+        return filtered
+
+    },
+
+    getPostalCode: function (district) {
         return this.Districts[district].postalService
-     },
+    },
 
 
 
-   
-    
+
+
 
 
 }
