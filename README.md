@@ -19,7 +19,7 @@ const Nepal = require('nepal-js');
 ```
 
 **Directly Including in HTML file.**<br>
-Download [Nepal.js](https://raw.githubusercontent.com/ramanic/Nepal.js/master/js/Nepal.js) file and include it insied your HTML file as below,
+Download [Nepal.js](https://raw.githubusercontent.com/ramanic/Nepal.js/master/js/Nepal.js) file and include it inside your HTML file as below,
 You can also use minified version [Nepal-min.js](https://raw.githubusercontent.com/ramanic/Nepal.js/master/js/Nepal-mini.js)
 ```
 <script type="text/javascript" src="Nepal.js"></script>
