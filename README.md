@@ -13,7 +13,7 @@ Install the package using following command
 ```
 npm install nepal-js
 ```
-Impot Package:
+Import Package:
 ```
 const Nepal = require('nepal-js');
 ```
